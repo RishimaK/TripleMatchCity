@@ -1,0 +1,9 @@
+skeleton.png
+size:278,166
+filter:Linear,Linear
+pma:true
+arow
+bounds:207,86,69,78
+hand1
+bounds:2,2,162,203
+rotate:90

@@ -1,0 +1,6 @@
+skeleton.png
+size:48,36
+filter:Linear,Linear
+pma:true
+Cow
+bounds:2,2,44,32

@@ -1,0 +1,13 @@
+skeleton.png
+size:246,159
+filter:Linear,Linear
+pma:true
+Curves 567
+bounds:140,5,51,94
+Curves 567 copy
+bounds:140,101,89,56
+Curves 567 copy 2
+bounds:193,8,91,51
+rotate:90
+Group 253
+bounds:2,2,136,155

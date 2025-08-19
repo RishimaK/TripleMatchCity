@@ -1,0 +1,6 @@
+skeleton.png
+size:30,36
+filter:Linear,Linear
+pma:true
+music
+bounds:2,2,26,32

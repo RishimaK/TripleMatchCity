@@ -1,0 +1,6 @@
+skeleton.png
+size:278,166
+filter:Linear,Linear
+pma:true
+Dino2
+bounds:2,2,274,162

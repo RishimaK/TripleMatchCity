@@ -1,0 +1,10 @@
+skeleton.png
+size:73,44
+filter:Linear,Linear
+pma:true
+I4
+bounds:2,2,40,51
+rotate:90
+I4_1
+bounds:55,13,29,16
+rotate:90

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124726531226",
+    "project_id": "find-triple-city",
+    "storage_bucket": "find-triple-city.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124726531226:android:8a5947acb6e47df93f3b23",
+        "android_client_info": {
+          "package_name": "com.vnstart.triple.city"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc7g6v2GmEVkYykV6gUOCNUDQe3-NmtMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

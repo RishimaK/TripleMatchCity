@@ -1,0 +1,16 @@
+skeleton.png
+size:432,146
+filter:Linear,Linear
+pma:true
+Car1
+bounds:234,2,142,97
+rotate:90
+Car1_1
+bounds:2,4,140,114
+rotate:90
+Car1_2
+bounds:118,4,140,114
+rotate:90
+Car1_3
+bounds:333,2,142,97
+rotate:90

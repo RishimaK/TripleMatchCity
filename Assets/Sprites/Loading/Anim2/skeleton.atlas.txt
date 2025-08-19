@@ -1,0 +1,8 @@
+skeleton.png
+size:935,520
+filter:Linear,Linear
+pma:true
+Snow
+bounds:911,496,22,22
+text
+bounds:2,2,907,516

@@ -1,0 +1,16 @@
+skeleton.png
+size:83,107
+filter:Linear,Linear
+pma:true
+Group 19
+bounds:2,63,42,70
+rotate:90
+Group 20
+bounds:2,2,32,55
+rotate:90
+Group 21
+bounds:59,3,31,17
+rotate:90
+Group 22
+bounds:2,36,25,79
+rotate:90

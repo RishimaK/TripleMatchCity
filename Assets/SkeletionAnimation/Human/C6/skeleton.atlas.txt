@@ -1,0 +1,12 @@
+skeleton.png
+size:70,147
+filter:Linear,Linear
+pma:true
+c5
+bounds:45,118,23,27
+c5_1
+bounds:2,2,60,47
+c5_2
+bounds:45,89,23,27
+c5_3
+bounds:2,51,41,94

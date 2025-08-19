@@ -1,0 +1,6 @@
+skeleton.png
+size:1422,542
+filter:Linear,Linear
+pma:true
+Cloud
+bounds:2,2,1418,538

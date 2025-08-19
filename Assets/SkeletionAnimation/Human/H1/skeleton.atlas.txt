@@ -1,0 +1,14 @@
+skeleton.png
+size:45,132
+filter:Linear,Linear
+pma:true
+body
+bounds:2,60,41,70
+hand
+bounds:2,31,19,27
+hand1
+bounds:2,2,18,27
+leg
+bounds:23,31,16,27
+leg1
+bounds:22,2,16,27

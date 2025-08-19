@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=e5441648cdcd16f48bf55b7cd3e873fd&amp;type=3#MainMenuStyle" />
+    <ui:VisualElement name="container">
+        <ui:Label text="Label" display-tooltip-when-elided="true" name="Header" class="header" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" class="button" style="font-size: 20px; width: 220px; height: 50px; align-items: center; justify-content: flex-start; white-space: nowrap; position: relative; -unity-text-align: middle-center; left: 40%; right: 40%;" />
+    </ui:VisualElement>
+</ui:UXML>

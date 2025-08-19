@@ -1,0 +1,10 @@
+skeleton.png
+size:578,189
+filter:Linear,Linear
+pma:true
+Group 267 copy
+bounds:2,2,226,185
+Group 268
+bounds:230,2,226,185
+Group 269
+bounds:458,54,118,133

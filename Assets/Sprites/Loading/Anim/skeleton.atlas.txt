@@ -1,0 +1,12 @@
+skeleton.png
+size:683,329
+filter:Linear,Linear
+pma:true
+Group 282
+bounds:2,117,605,66
+Loading_
+bounds:2,2,406,113
+Rounded Rectangle 615
+bounds:2,185,679,142
+_
+bounds:609,150,32,33

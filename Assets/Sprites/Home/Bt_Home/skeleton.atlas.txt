@@ -1,0 +1,41 @@
+skeleton.png
+size:350,276
+filter:Linear,Linear
+pma:true
+Group 11
+bounds:230,123,27,27
+Group 12
+bounds:63,2,79,50
+rotate:90
+Group 13
+bounds:293,190,84,55
+rotate:90
+Group 5
+bounds:184,4,115,110
+Group 6
+bounds:191,120,37,30
+Group 6-2
+bounds:145,84,37,30
+Group 7
+bounds:301,60,63,45
+rotate:90
+Group 7 copy
+bounds:293,125,63,45
+rotate:90
+Group 8
+bounds:146,3,29,79
+Group 8 copy
+bounds:115,2,29,79
+Group 9
+bounds:145,116,158,44
+rotate:90
+Light
+bounds:301,10,47,48
+Rectangle 6
+bounds:2,2,79,59
+rotate:90
+Shadow
+bounds:2,83,141,191
+Shape 5
+bounds:191,152,122,100
+rotate:90

@@ -1,0 +1,6 @@
+skeleton.png
+size:240,177
+filter:Linear,Linear
+pma:true
+compassArrow
+bounds:2,2,236,173

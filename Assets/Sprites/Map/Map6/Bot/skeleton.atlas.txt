@@ -1,0 +1,13 @@
+skeleton.png
+size:128,72
+filter:Linear,Linear
+pma:true
+A_Hand
+bounds:91,16,10,10
+H34_2
+bounds:2,2,58,68
+H9
+bounds:62,28,42,64
+rotate:90
+H9_1
+bounds:62,2,27,24

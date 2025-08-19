@@ -1,0 +1,64 @@
+{
+    "map" : [
+        {
+            "AreaName": "",
+            "ItemList": null,
+            "QuantityList": null,
+            "Milestones": null
+        },
+        {
+            "AreaName": "CIVILIZED CITY",
+            "ItemList": ["apple", "laptop", "money", "pizza", "ketchup", "vase"],
+            "QuantityList": [20, 17, 19, 18, 20, 16],
+            "Milestones": [20,30,70]
+        },
+        {
+            "AreaName": "ZOO",
+            "ItemList": ["beanie", "coconut", "egg", "olaf", "shoe", "snake", "dino", "dog", "wifi", "poster", "screen", "saw", "bread", "flower", "hat2", "apple"],
+            "QuantityList": [12, 11, 10, 8, 15, 9, 8, 10, 12, 16, 9, 5, 14, 12, 14, 10],
+            "Milestones": [20,50,100]
+        },
+        {
+            "AreaName": "AIR PORT",
+            "ItemList": ["screen", "ufo", "poster", "letters", "magnet", "camera", "cat", "dryer", "facemask", "pen", "tooth", "toothpaste", "trumpet", "wifi", "sweater", "orange", "boo", "loudspeaker", "hat"],
+            "QuantityList": [9, 5, 12, 10, 14, 8, 11, 9, 7, 13, 5, 9, 6, 10, 8, 13, 7, 8, 8],
+            "Milestones": [20,50,100]
+        },
+        {
+            "AreaName": "TREASURE ISLAND",
+            "ItemList": ["moto", "loudspeaker", "piano", "poison", "pineapple", "testtube", "chocolate", "axe", "magnet", "orange", "glasses", "coconut", "shoe", "bananacat", "bread", "boo", "knife", "gamepad", "saw", "ice", "vase", "dog", "pen"],
+            "QuantityList": [5, 8, 6, 9, 11, 7, 12, 7, 8, 9, 6, 11, 12, 4, 10, 7, 9, 6, 9, 3, 8, 9, 4],
+            "Milestones": [20,50,100]
+        },
+        {
+            "AreaName": "ANCIENT EGYPT",
+            "ItemList": ["cheese", "diamond", "boots", "fox", "meat", "chicken", "bananacat", "bread", "trash", "ufo", "pineapple", "snake", "orange", "hat2", "dogdance", "pen", "coconut", "glasses", "cat", "tooth", "axe", "deserthat", "desertshoes", "goldcat", "gold", "woodencup", "pyramid", "boo", "knife", "strangeflower", "beanie", "dog"],
+            "QuantityList": [7, 8, 6, 5, 6, 7, 5, 8, 3, 5, 7, 3, 9, 6, 3, 8, 6, 5, 4, 2, 7, 5, 5, 6, 4, 6, 1, 3, 6, 8, 4, 4],
+            "Milestones": [20,50,100]
+        },
+        {
+            "AreaName": "APARTMENT",
+            "ItemList": ["pen", "boo", "parrot", "loudspeaker", "testtube", "pumpkin", "piano", "poster", "stranded", "meat", "toiletpaper", "letters", "gun", "orange", "sushi", "apple", "money", "shoe", "meowlien", "magnet", "snake", "dino", "key", "socket", "ok", "screen", "flower", "ufo", "camera", "note", "dryer", "billiardball", "bonk", "iron", "cow", "eye", "facemask", "toothpaste", "trumpet", "sweater", "moto", "chocolate", "gamepad", "ice", "cheese", "diamond"],
+            "QuantityList": [10, 4, 5, 5, 5, 3, 4, 5, 6, 5, 7, 4, 1, 6, 2, 2, 2, 5, 4, 3, 2, 1, 5, 2, 3, 2, 3, 1, 4, 5, 2, 4, 3, 2, 3, 5, 4, 2, 1, 2, 1, 5, 3, 4, 5, 8],
+            "Milestones": [20,50,100]
+        },
+        {
+            "AreaName": "Age Of Chivalry",
+            "ItemList": ["poster", "meat", "parrot", "pumpkin", "stranded", "toiletpaper", "letters", "orange", "snake", "key", "flower", "note", "bonk", "iron", "cow", "eye", "chocolate", "cheese", "skull", "onion", "fatdog", "axe", "hammer", "poison", "chicken", "dogdance", "mat", "taco", "hand", "jam", "beer", "bone", "tent", "bucket", "woodenplank", "trap", "cactus", "horseshoe", "goldenegg", "doorknob", "deserthat", "desertshoes", "crutch", "lock", "playingcard", "bananacat", "bread", "woodencup", "pineapple", "sushi"],
+            "QuantityList": [4, 5, 3, 4, 4, 3, 4, 5, 2, 4, 3, 4, 4, 2, 4, 4, 5, 4, 4, 4, 3, 4, 4, 3, 2, 4, 4, 3, 2, 3, 2, 4, 2, 1, 4, 3, 4, 5, 1, 4, 3, 3, 5, 3, 4, 2, 5, 3, 1, 3],
+            "Milestones": [20,50,100]
+        },
+        {
+            "AreaName": "ZOMBIE PANDEMIC",
+            "ItemList": ["laptop", "pizza", "dragonball", "skull", "onion", "fatdog", "axe", "hammer", "battery", "chicken", "dogdance", "mat", "taco", "hand", "jam", "beer", "bone", "tent", "bucket", "woodenplank", "capybara", "scissors", "ladybug", "watermelon", "stackofdiscs", "spraybottle", "pressurecooker", "paperbag", "phone", "pillow", "beanie", "olaf", "shoe", "dog", "wifi", "screen", "saw", "hat2", "magnet", "camera", "piano", "glasses", "knife", "gamepad", "diamond", "boots", "fox", "compass", "poison", "frog", "cat", "dryer", "facemask", "tomb", "toothpaste", "trumpet", "sweater", "hat", "moto", "loudspeaker", "dragonfruit", "colortube", "plasticbag", "foxmask", "ketchup", "socket", "ok", "plasticbox", "milk", "lipstick", "micro", "cactus", "horseshoe", "goldenegg", "doorknob", "crutch", "lock", "playingcard", "woodencup", "trap", "alcohol", "basket"],
+            "QuantityList": [2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,2,4,2,2,2,4,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2,4,2,2,2,2,2,2,2,2,2,3,3,2],
+            "Milestones": [20,50,100]
+        },
+        {
+            "AreaName": "GAMEZONE",
+            "ItemList": ["babybottle", "bee", "board", "blender", "binoculars", "cashregister", "doll", "eggtray", "flashlight", "glasses", "plant", "idiot", "hotdog", "mexicoboy", "micro", "notice", "ok", "pirate", "president", "printer","sausage", "soju", "tooth", "t-shirt", "vacuumcleaner", "wig", "trashcan", "note", "astronaut", "alcohol","pepper", "catsfighting", "watermelon", "beehorse", "firehorse", "galaxyhorse", "jellyfish", "chainsawboy", "redassassin", "rider","taco", "orange", "boo", "diamond", "screen", "socket", "plasticbox", "lightning", "lipstick", "cactus","hamburger", "spraybottle", "bananacat", "billiardball", "camera", "dogdance", "dragon", "dragonfruit", "loudspeaker", "meowlien","paperbag", "poster", "scissors", "stranded", "basketballplayer", "kettle", "trashscoop", "toothpaste","stackofdiscs","lock","trumpet", "playingcard", "pen", "plasticbag", "mouse", "stickynote", "matchbox", "acorn", "donut", "mayonnaise","eggplant", "bat", "onion", "letters", "crutch", "snack", "dorayaki", "shrimp"],
+            "QuantityList": [2,2,2,2,2,1,2,1,2,2,2,1,2,2,2,1,2,2,1,1,2,2,1,2,2,2,2,2,2,2,2,1,2,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,2,2,2,2,2],
+            "Milestones": [20,50,100]
+        }
+    ]
+}

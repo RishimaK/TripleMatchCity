@@ -1,0 +1,8 @@
+skeleton.png
+size:129,71
+filter:Linear,Linear
+pma:true
+Group 19
+bounds:2,2,75,67
+Group 20
+bounds:79,11,48,58

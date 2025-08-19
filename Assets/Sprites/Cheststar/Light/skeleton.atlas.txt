@@ -1,0 +1,8 @@
+skeleton.png
+size:499,277
+filter:Linear,Linear
+pma:true
+Ellipse 1945
+bounds:2,2,273,273
+add_light_blast02
+bounds:277,55,220,220

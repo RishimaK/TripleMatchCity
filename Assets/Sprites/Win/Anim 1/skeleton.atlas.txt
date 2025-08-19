@@ -1,0 +1,27 @@
+skeleton.png
+size:1562,1288
+filter:Linear,Linear
+pma:true
+Ellipse 791
+bounds:148,8,17,34
+Ellipse 791 copy
+bounds:128,8,18,34
+Fr
+bounds:509,17,983,574
+rotate:90
+Rounded Rectangle 790
+bounds:2,2,124,40
+Star
+bounds:1437,408,103,107
+rotate:90
+TEXT EFFECT
+bounds:509,1002,1038,284
+curtain
+bounds:2,44,1242,505
+rotate:90
+curtain2
+bounds:1085,310,201,350
+rotate:90
+trumpet
+bounds:1085,513,487,475
+rotate:90

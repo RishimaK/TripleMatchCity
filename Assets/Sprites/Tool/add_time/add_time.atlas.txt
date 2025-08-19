@@ -1,0 +1,14 @@
+add_time.png
+size:1253,851
+filter:Linear,Linear
+pma:true
++10
+bounds:851,334,198,73
+chot
+bounds:1051,352,48,55
+ic_timer copy
+bounds:851,409,400,440
+kim_giay
+bounds:851,273,68,59
+light
+bounds:2,2,847,847

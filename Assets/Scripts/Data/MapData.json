@@ -1,0 +1,361 @@
+{
+    "map" : [
+        {
+            "MapName": 0,
+            "ItemList": null,
+            "QuantityList": null,
+            "Moving": null,
+            "Time": null
+        },
+        {
+            "Map": 1,
+            "ItemList": ["Fisher", "Ship3", "Tent"],
+            "QuantityList": [3,3,3],
+            "Moving": null,
+            "Time": 3600
+        },
+        {
+            "Map": 2,
+            "ItemList": ["Motobike1"],
+            "QuantityList": [9],
+            "Moving": null,
+            "Time": 300
+        },
+        {
+            "Map": 3,
+            "ItemList": ["House13", "House12", "House5"],
+            "QuantityList": [6,6,6],
+            "Moving": null,
+            "Time": 180
+        },
+        {
+            "Map": 4,
+            "ItemList": ["House6"],
+            "QuantityList": [15],
+            "Moving": null,
+            "Time": 180
+        },
+        {
+            "Map": 5,
+            "ItemList": ["House8", "House15"],
+            "QuantityList": [12,6],
+            "Moving": null,
+            "Time": 180
+        },
+        {
+            "Map": 6,
+            "ItemList": ["House18"],
+            "QuantityList": [15],
+            "Moving": ["Car1 (1)", "Car1 (2)", "Car1 (3)"],
+            "Time": 200
+        },
+        {
+            "Map": 7,
+            "ItemList": ["Car1", "Bear", "House13"],
+            "QuantityList": [6,6,12],
+            "Moving": ["Car1 (5)"],
+            "Time": 120
+        },
+        {
+            "Map": 8,
+            "ItemList": ["House1","House43"],
+            "QuantityList": [9,6],
+            "Moving": null,
+            "Time": 240
+        },
+        {
+            "Map": 9,
+            "ItemList": ["House20", "House11", "House45"],
+            "QuantityList": [6,6,9],
+            "Moving": null,
+            "Time": 180  
+        },
+        {
+            "Map": 10,
+            "ItemList": ["House25", "House10", "House5"],
+            "QuantityList": [9,9,9],
+            "Moving": ["Car1 (2)"],
+            "Time": 180
+        },
+        {
+            "Map": 11,
+            "ItemList": ["House48", "Human2"],
+            "QuantityList": [9,9],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 12,
+            "ItemList": ["Human7", "Crab", "StreetLight"],
+            "QuantityList": [9,9,9],
+            "Moving": null,
+            "Time": 100
+        },
+        {
+            "Map": 13,
+            "ItemList": ["House12", "House8", "Car3"],
+            "QuantityList": [6,6,3],
+            "Moving": ["Car3 (2)"],
+            "Time": 60
+        },
+        {
+            "Map": 14,
+            "ItemList": ["Human11", "Capybara", "House50"],
+            "QuantityList": [9,3,3],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 15,
+            "ItemList": ["Human6", "Car4", "House52", "House50"],
+            "QuantityList": [9,6,9,6],
+            "Moving": ["Car4 (3)", "Car4 (6)"],
+            "Time": 180
+        },
+        {
+            "Map": 16,
+            "ItemList": ["House31" ,"Crab"],
+            "QuantityList": [9,6],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 17,
+            "ItemList": ["Cargo" ,"Human17"],
+            "QuantityList": [6,6],
+            "Moving": ["Car6 (1)", "Car6 (2)"],
+            "Time": 120
+        },
+        {
+            "Map": 18,
+            "ItemList": ["Tent", "Human14"],
+            "QuantityList": [15,6],
+            "Moving": null,
+            "Time": 140
+        },
+        {
+            "Map": 19,
+            "ItemList": ["Human13", "Safe", "House37"],
+            "QuantityList": [6,3,6],
+            "Moving": null,
+            "Time": 140
+        },
+        {
+            "Map": 20,
+            "ItemList": ["Human15", "House28", "Bulletinboard"],
+            "QuantityList": [6,6,3],
+            "Moving": null,
+            "Time": 180
+        },
+        {
+            "Map": 21,
+            "ItemList": ["House58", "Fence3", "Dino1"],
+            "QuantityList": [9,9,3],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 22,
+            "ItemList": ["House55", "Meat", "Stone2"],
+            "QuantityList": [6,6,6],
+            "Moving": null,
+            "Time": 90
+        },
+        {
+            "Map": 23,
+            "ItemList": ["House67", "Human20"],
+            "QuantityList": [12,12],
+            "Moving": null,
+            "Time": 90
+        },
+        {
+            "Map": 24,
+            "ItemList": ["Dino4", "Human10", "Lance"],
+            "QuantityList": [6,6,6],
+            "Moving": null,
+            "Time": 180
+        },
+        {
+            "Map": 25,
+            "ItemList": ["Pile", "Dino2", "House57"],
+            "QuantityList": [6,6,3],
+            "Moving": null,
+            "Time": 140
+        },
+        {
+            "Map": 26,
+            "ItemList": ["House60", "CampFire", "Dino3"],
+            "QuantityList": [9,6,6],
+            "Moving": null,
+            "Time": 130
+        },
+        {
+            "Map": 27,
+            "ItemList": ["Dino1", "House58", "Stone1", "House62"],
+            "QuantityList": [6,6,3,6],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 28,
+            "ItemList": ["Bear", "Human15", "House70", "Torch"],
+            "QuantityList": [6,6,6,6],
+            "Moving": null,
+            "Time": 200
+        },
+        {
+            "Map": 29,
+            "ItemList": ["Snowman", "House71", "Fox"],
+            "QuantityList": [9,9,3],
+            "Moving": null,
+            "Time": 120
+        },
+        {
+            "Map": 30,
+            "ItemList": ["House21", "Sled", "Log2", "House48"],
+            "QuantityList": [6,6,6,3],
+            "Moving": null,
+            "Time": 120
+        },
+        {
+            "Map": 31,
+            "ItemList": ["House77", "Ship6", "Human11", "Car2"],
+            "QuantityList": [3,3,6,6],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 32,
+            "ItemList": ["House76", "House18", "House4"],
+            "QuantityList": [12,6,6],
+            "Moving": null,
+            "Time": 160
+        },
+        {
+            "Map": 33,
+            "ItemList": ["House78", "House71", "Human16", "House19"],
+            "QuantityList": [9,6,6,6],
+            "Moving": null,
+            "Time": 170
+        },
+        {
+            "Map": 34,
+            "ItemList": ["House77", "Human5", "Car4", "House48"],
+            "QuantityList": [9,6,6,6],
+            "Moving": null,
+            "Time": 160
+        },
+        {
+            "Map": 35,
+            "ItemList": ["House46", "House51", "Pepxi"],
+            "QuantityList": [9,6,6],
+            "Moving": null,
+            "Time": 120
+        },
+        {
+            "Map": 36,
+            "ItemList": ["Rotation", "Human8", "House51", "House6"],
+            "QuantityList": [9,6,3,6],
+            "Moving": null,
+            "Time": 140
+        },
+        {
+            "Map": 37,
+            "ItemList": ["Bunger", "Coffe", "House79", "House14"],
+            "QuantityList": [6,12,6,3],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 38,
+            "ItemList": ["House80", "House27"],
+            "QuantityList": [6,6],
+            "Moving": null,
+            "Time": 90
+        },
+        {
+            "Map": 39,
+            "ItemList": ["Umbrella", "House45", "Carrot", "Doll"],
+            "QuantityList": [9,6,6,3],
+            "Moving": null,
+            "Time": 130
+        },
+        {
+            "Map": 40,
+            "ItemList": ["House13", "Trafficcone", "House48"],
+            "QuantityList": [6,6,9],
+            "Moving": null,
+            "Time": 120
+        },
+        {
+            "Map": 41,
+            "ItemList": ["House83", "Stall", "House85", "Capybara", "Stop"],
+            "QuantityList": [6,3,6,3,9],
+            "Moving": null,
+            "Time": 200
+        },
+        {
+            "Map": 42,
+            "ItemList": ["House47", "House41", "Candy1", "House92", "House77"],
+            "QuantityList": [3,6,12,3,6],
+            "Moving": null,
+            "Time": 140
+        },
+        {
+            "Map": 43,
+            "ItemList": ["House7", "StreetLight", "Rotation", "House23"],
+            "QuantityList": [9,6,6,6],
+            "Moving": null,
+            "Time": 100
+        },
+        {
+            "Map": 44,
+            "ItemList": ["House47", "Candy2", "Log", "Car3", "House51"],
+            "QuantityList": [3,9,6,3,6],
+            "Moving": null,
+            "Time": 180
+        },
+        {
+            "Map": 45,
+            "ItemList": ["Cow", "House73", "Fence", "Candy4"],
+            "QuantityList": [6,9,9,9],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 46,
+            "ItemList": ["Ball", "Fruit2", "House80", "House94"],
+            "QuantityList": [6,9,3,6],
+            "Moving": null,
+            "Time": 120
+        },
+        {
+            "Map": 47,
+            "ItemList": ["Candy2", "Fruit1", "Ship", "Umbrella"],
+            "QuantityList": [6,6,3,9],
+            "Moving": null,
+            "Time": 120
+        },
+        {
+            "Map": 48,
+            "ItemList": ["Log", "Oil", "Candy2", "Cheese", "Money"],
+            "QuantityList": [6,3,6,6,3],
+            "Moving": null,
+            "Time": 150
+        },
+        {
+            "Map": 49,
+            "ItemList": ["Human14", "House94", "Dice", "Turtle"],
+            "QuantityList": [3,6,6,6],
+            "Moving": null,
+            "Time": 100
+        },
+        {
+            "Map": 50,
+            "ItemList": ["Fruit1", "House51", "Bear"],
+            "QuantityList": [6,6,3],
+            "Moving": null,
+            "Time": 60
+        }
+    ]
+}

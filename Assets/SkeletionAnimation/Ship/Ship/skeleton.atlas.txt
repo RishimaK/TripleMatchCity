@@ -1,0 +1,6 @@
+skeleton.png
+size:279,198
+filter:Linear,Linear
+pma:true
+Ship
+bounds:2,2,275,194

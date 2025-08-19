@@ -1,0 +1,10 @@
+skeleton.png
+size:175,38
+filter:Linear,Linear
+pma:true
+Group 22
+bounds:138,2,35,34
+Group 23
+bounds:73,11,63,25
+Group 31
+bounds:2,5,69,31
